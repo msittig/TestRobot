@@ -54,6 +54,7 @@ import org.firstinspires.ftc.robotcontroller.external.samples.HardwarePushbot;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
+// consider adding a version number to the Teleop name
 @TeleOp(name="Sittig's Teleop of Science", group="Pushbot")
 //@Disabled
 public class PushbotTeleopTank_Iterative extends OpMode{
